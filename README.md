@@ -4,7 +4,7 @@
 
 ### Пример использования
  
- ```
+```
 let buffer = MultipartFormBuffer()
  
 // Добавление полей
@@ -21,4 +21,4 @@ buffer.addFile(
 
 
 let multipartFormData = buffer.get()
- ```
+```
